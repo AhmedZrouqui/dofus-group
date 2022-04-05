@@ -8,6 +8,8 @@ interface IProps{
 const Layout: React.FC<IProps> = ({
     children
 }) => {
+
+    //Layout
     return(
         <div className="container mx-auto">
             <Header />
