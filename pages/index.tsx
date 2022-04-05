@@ -10,7 +10,9 @@ const Home: NextPage = () => {
         <meta name="description" content="find your groupe in dofus" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      <h>
+        tacos mamaria
+      </h>
       <Layout>
         new stuff
       </Layout>
